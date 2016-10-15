@@ -291,7 +291,7 @@
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
-            motdEnabled: false,
+            motdEnabled: true,
             motdInterval: 5,
             motd: "Get plugCubed to view our custom background and other custom settings! http://plugcubed.net/",
             filterChat: true,
