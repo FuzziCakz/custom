@@ -293,7 +293,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Temporary Message of the Day",
+            motd: "Get plugCubed to view our custom background and other custom settings! http://plugcubed.net/",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
